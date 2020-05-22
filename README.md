@@ -8,7 +8,7 @@ Documents are indexed by a tokenizer and stored in an inverted index. After ente
 Documents are scored and ranked based on the sum of their tf-idf scores.
 tf-idf weighting is calculated as follows:
 
-![tfidf formula](https://user-images.githubusercontent.com/55144676/82619598-6171a100-9ba4-11ea-8751-ac9216e9249a.PNG)
+![tfidf formula](https://user-images.githubusercontent.com/55144676/82619733-bf9e8400-9ba4-11ea-8cb4-4c9cc4361b7a.PNG)
 
 where
 tf: term frequency of term t in document d
