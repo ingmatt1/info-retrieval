@@ -11,10 +11,7 @@ tf-idf weighting is calculated as follows:
 ![tfidf formula](https://user-images.githubusercontent.com/55144676/82619733-bf9e8400-9ba4-11ea-8cb4-4c9cc4361b7a.PNG)
 
 where
-tf: term frequency of term t in document d
-N: total number of documents
-df: number of documents the term appears in 
-
+tf: term frequency of term t in document d, N: total number of documents, df: number of documents the term appears in 
 Documents are sorted and a list of the documents with the top scores are returned.
 
 
