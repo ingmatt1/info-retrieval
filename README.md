@@ -15,5 +15,6 @@ where
 * df: number of documents the term appears in 
 
 Documents are sorted and a list of the documents with the top scores are returned.
+<img src="https://user-images.githubusercontent.com/55144676/87736692-d9c0a100-c7a6-11ea-8f77-625e5c5b34a9.png" width="400" height="500">
 
-
+*Search query with set of scored documents.*
