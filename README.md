@@ -1,4 +1,4 @@
-# information-retrieval-search-engine
+# information-retrieval
 
 In-memory information retrieval system using a HashMap based inverted index and tf-idf scoring system that assigns weighted scores to documents based on their term frequency and inverse document frequency. 
 
